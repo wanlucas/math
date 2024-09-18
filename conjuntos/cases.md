@@ -1,0 +1,109 @@
+<style>
+  .true {
+    border: 2px solid #155724;;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 15px 0;
+  }
+
+  .false {
+    border: 2px solid #721c24;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 15px 0;
+  }
+</style>
+
+1 - Indicar pertencimento de cada um dos elementos -4, 1/3, 3 e 0,25 aos conjuntos: <br>
+
+```
+ A = { x | x é um número inteiro }
+
+ -4 ∈ A, 1/3 ∉ A, 3 ∈ A e 0,25 ∉ A
+```
+
+```
+ B = { x | x < 1 }
+
+ -4 ∈ B, 1/3 ∈ B, 3 ∉ B e 0,25 ∈ B
+```
+
+```
+ C = { x | 15x - 5 = 0 }
+ C = { x | 15x = 5
+ C = { x | x = 5 / 15 } }
+ C = { x | x = 0.33  }
+
+ -4 ∉ B, 1/3 ∈ B, 3 ∉ B e 0,25 ∉ B
+```
+
+```
+ D = { x | -2 ≤ x ≤ 1/4 }
+ D = { 0,25 }
+
+ -4 ∉ B, 1/3 ∉ B, 3 ∉ B e 0,25 ∈ B
+```
+
+2 - Reescrever o conjunto enumerando elementos: <br>
+
+```
+ A = { x | x é letra da palavra 'beterraba' }
+ A = { b, e, t, r, a }
+```
+
+```
+ B = { x | x = a/b, em que a e b são números inteiros, a ≠ b, 1 < a < 4 e 1 < b < 4 }
+ B = { 2/3, 3/2 }
+```
+
+3 - Dado H = { -1, 0, 2, 4, 9 }
+
+```
+ A = { x | x ∈ H e x < 1 }
+ A = { -1, 0 }
+```
+
+```
+ B = { x | x ∈ H e (2x - 1) / 3 = 1 }
+ B = { x | x ∈ H e 2x - 1 = 3 }
+ B = { x | x ∈ H e x = 2 }
+ B = { 2 }
+```
+
+```
+ C = { x | x ∈ H e x é quadrado perfeito }
+ C = { 0, 4, 9 }
+```
+
+```
+ D = { x | x ∈ H e 3x + 1 = 10 }
+ D = { x | x ∈ H e x = 3 }
+ D = ∅
+```
+
+4 - Verdadeiro ou Falso
+
+<div class="false">
+  0 ∈ ∅
+</div>
+
+<div class="false">
+  { a, b } ∈ { a, b, c, d } 
+</div>
+
+<div class="true">
+  { x | 2x + 9 = 13} = { 2 }
+  { x | x = 2 } = { 2 }
+</div>
+
+<div class="true">
+  a ∈ { a, {a} }
+</div>
+
+<div class="true">
+  {x | x < 0 e x ≥ 0 } = ∅ 
+</div>
+
+<div class="true">
+  ∅ ∈ { ∅, { a } }
+</div>

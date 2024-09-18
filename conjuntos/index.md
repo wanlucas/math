@@ -40,3 +40,4 @@ Assim temos: <br>
 ∅ € P, {lara} € P <br>
 lara ∉ P pois lara ≠ {lara}
 
+[cases](./cases.md)

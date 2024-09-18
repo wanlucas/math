@@ -1,0 +1,32 @@
+{
+  "Diferente": {
+    "prefix": ".dif",
+    "body": ["≠"],
+    "description": "Substitui por ≠"
+  },
+  "Menor ou igual": {
+    "prefix": ".mi",
+    "body": ["≤"],
+    "description": "Substitui por ≤"
+  },
+  "Maior ou igual": {
+    "prefix": ".Mi",
+    "body": ["≥"],
+    "description": "Substitui por ≥"
+  },
+  "Pertence": {
+    "prefix": ".per",
+    "body": ["∈"],
+    "description": "Substitui por ∈"
+  },
+  "Não Pertence": {
+    "prefix": ".nper",
+    "body": ["∉"],
+    "description": "Substitui por ∉"
+  },
+  "Conjunto vazio": {
+    "prefix": ".vaz",
+    "body": ["∅"],
+    "description": "Substitui por ∅"
+  }
+}
