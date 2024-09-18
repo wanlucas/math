@@ -4,11 +4,11 @@
 - **Elemento**: designado por uma letra minúscula (a, b, c)
 - **Pertinência**: relação entre o elemento e o conjunto
 
-Se P é o conjunto das minhas grandes paixões, l (Lara), e (Leyna) e m (Mayara)são elementos desse conjunto, o qual pode ser representado por 
+Se P é o conjunto das minhas grandes paixões, l (Lara), e (Leyna) e m (Mayara) são elementos desse conjunto, o qual pode ser representado por 
 
 P = { l, e, m }
 
-Pode-se dizer então que l € P, e € P e m € P
+Pode-se dizer então que l ∈ P, e ∈ P e m ∈ P
 
 Pode-se designar um conjunto por uma propriedade característica de seus elementos, ex:
 
@@ -37,7 +37,7 @@ Há conjuntos cujo os elementos são conjuntos <br>
 P = {{lara}, ∅}
 
 Assim temos: <br>
-∅ € P, {lara} € P <br>
+∅ ∈ P, {lara} ∈ P <br>
 lara ∉ P pois lara ≠ {lara}
 
 [cases](./cases.md)
