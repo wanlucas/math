@@ -28,5 +28,35 @@
     "prefix": ".vaz",
     "body": ["∅"],
     "description": "Substitui por ∅"
+  },
+  "Subconjunto": {
+    "prefix": ".sc",
+    "body": ["⊂"],
+    "description": "Substitui por ⊂"
+  },
+  "Subconjunto igual": {
+    "prefix": ".sci",
+    "body": ["⊆"],
+    "description": "Substitui por ⊆"
+  },
+  "Subconjunto negação": {
+    "prefix": ".scn",
+    "body": ["⊄"],
+    "description": "Substitui por ⊄"
+  },
+  "Superconjunto": {
+    "prefix": ".supc",
+    "body": ["⊃"],
+    "description": "Substitui por ⊃"
+  },
+  "Superconjunto igual": {
+    "prefix": ".supci",
+    "body": ["⊇"],
+    "description": "Substitui por ⊇"
+  },
+  "Superconjunto negação": {
+    "prefix": ".supcn",
+    "body": ["⊅"],
+    "description": "Substitui por ⊅"
   }
 }
