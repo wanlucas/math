@@ -1,2 +1,2 @@
 ### Tópicos em ordem de estudo
-- [Conjuntos](conjuntos/index.md)
+- [Conjuntos](content/conjuntos/index.md)
