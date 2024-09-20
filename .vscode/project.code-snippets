@@ -58,5 +58,15 @@
     "prefix": ".supcn",
     "body": ["⊅"],
     "description": "Substitui por ⊅"
+  }, 
+  "Interseção": {
+    "prefix": ".in",
+    "body": ["∩"],
+    "description": "Substitui por ∩"
+  }, 
+  "União": {
+    "prefix": ".un",
+    "body": ["∪"],
+    "description": "Substitui por ∪"
   }
 }

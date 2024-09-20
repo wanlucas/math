@@ -84,3 +84,36 @@ Conjuntos das partes de A = P(A) <br>
 P(A) = { ∅, { 1 }, { 2 }, { 3 }, { 1, 2 }, { 1, 3 }, { 2, 3 }, { 1, 2, 3 } }
 
 [Exercícios](./cases/2.md)
+
+## Interseção e reunião
+A interseção de dois conjuntos é um conjunto com os seus elementos em comum. 
+
+Dato A = { 1, 2, 3 } e B = { 2, 3, 4 } <br>
+A ∩ B = { x | x ∈ A e x ∈ B } <br>
+A ∩ B = { 2, 3 }
+
+**N(conjunto) é usado para indicar a quantidade de elementos distintos em um conjunto** <br>
+  sendo assim: n(A ∩ B) = 2
+
+Dados dois conjuntos quaisquer X e Z: <br>
+  - Se X ⊂ Z, X ∩ Z = X
+  - Se X ⊃ Z, X ∩ Z = Z
+  - Se X e Z não tem elementos em comum, X ∩ Z = ∅
+
+## União
+A junção de dois conjuntos
+
+Dado A = { 1, 2, 3 } e B = { 2, 3, 4 }
+A ∪ B = { x | x ∈ A ou x ∈ B }
+A ∪ B = { 1, 2, 3, 4 }
+
+Dados dois conjuntos quaisquer X e Z: <br>
+  - Se X ⊂ Z, X ∪ Z = Z
+  - Se X ⊃ Z, X ∪ Z = X
+  - Se X ∩ Z = ∅, n(X ∪ Z) = n(X) + n(Z)
+  - Se X ∪ Y = ∅, X = ∅ e Y = ∅
+  - X ⊂ (X ∪ Y) e Y ⊂ (X ∪ Y)
+  - n(X ∪ B) = n(X) + n(B) - n(X ∩ B)
+
+
+[Exercícios](./cases/3.md)
