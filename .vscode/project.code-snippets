@@ -68,5 +68,10 @@
     "prefix": ".un",
     "body": ["∪"],
     "description": "Substitui por ∪"
+  },
+  "Complementar": {
+    "prefix": ".comp",
+    "body": ["∁"],
+    "description": "Substitui por ∁"
   }
 }

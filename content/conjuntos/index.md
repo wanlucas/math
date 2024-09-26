@@ -88,7 +88,7 @@ P(A) = { ∅, { 1 }, { 2 }, { 3 }, { 1, 2 }, { 1, 3 }, { 2, 3 }, { 1, 2, 3 } }
 ## Interseção e reunião
 A interseção de dois conjuntos é um conjunto com os seus elementos em comum. 
 
-Dato A = { 1, 2, 3 } e B = { 2, 3, 4 } <br>
+Dados A = { 1, 2, 3 } e B = { 2, 3, 4 } <br>
 A ∩ B = { x | x ∈ A e x ∈ B } <br>
 A ∩ B = { 2, 3 }
 
@@ -117,3 +117,28 @@ Dados dois conjuntos quaisquer X e Z: <br>
 
 
 [Exercícios](./cases/3.md)
+
+
+## Diferença
+A diferença entre um conjunto A e um B, representada por A - B, é um conjunto formado pela elementos que existem em A, mas não existem em B. <br>
+
+Dados A = { 1, 2, 3 } e B = { 3, 4, 5 } <br>
+A - B = { x | x ∈ A e x ∉ B } <br>
+A - B = { 1, 2 } <br>
+
+
+Dados dois conjuntos quaisquer X e Z:
+  - Se X ⊂ Y, X - Y = ∅
+  - Se X e Y são disjuntos, X - Y = X
+
+**Importante**: <br> 
+  - Se Y ⊂ X, X - Y é chamado de **complementar de Y em relação a X** (∁yx) <br>
+
+Dados A = { 1, 2, 3, 4, 5 }, B = { 3, 4, 5, 6 }, C = { 2, 3 } e D = { 0, 7, 8 } <br>
+  - A - B = { 1, 2 }
+  - A - C = { 1, 4, 5 }, A - C = ∁ca, pois C ⊂ A
+  - C - D = { 2, 3 }, pois como C ∩ D = ∅, C - D = C
+  - C - A = ∅, pois C ⊂ A
+  - C - C = ∅
+
+[Exercícios](./cases/4.md)
