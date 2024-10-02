@@ -142,3 +142,5 @@ Dados A = { 1, 2, 3, 4, 5 }, B = { 3, 4, 5, 6 }, C = { 2, 3 } e D = { 0, 7, 8 } 
   - C - C = ∅
 
 [Exercícios](./cases/4.md)
+
+[Concursos](./cases/hard.md)

@@ -55,3 +55,21 @@ bastar multiplicar numerador por numerador, divisor por divisor.
 para dividir basta inverter a segunda
 
         3 / 4 x 7 / 2 = 21 / 8
+
+### Representação fracionária de dízima periódica
+
+Existem dois cominhos para encontrar a representação fracionária de uma DP, dependendo a dízima ser simples ou composta.
+
+### Simples
+  junção da parte inteira até o período - parte inteira / 99
+
+        9,323232...
+        932 - 9 / 99 
+        923 / 99
+### Composta
+  Numerador: junção da parte interia até o período - a junção da parte intereira + decimal não periódica <br>
+  Denomidador: a cada número na parte periódica adiciona um 9, após isso, a cada número na parte decimal não periódica adiciona um 0. 
+
+        8,7151515... 
+        8715 - 87 / 990
+        8628 / 990

@@ -73,5 +73,10 @@
     "prefix": ".comp",
     "body": ["∁"],
     "description": "Substitui por ∁"
+  },
+  "Conjuntos dos naturais": {
+    "prefix": ".nat",
+    "body": ["N"],
+    "description": "Substitui por N"
   }
 }
