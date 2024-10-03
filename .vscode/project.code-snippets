@@ -78,5 +78,15 @@
     "prefix": ".nat",
     "body": ["N"],
     "description": "Substitui por N"
+  },
+  "Raiz": {
+    "prefix": ".raiz",
+    "body": ["√"],
+    "description": "Substitui por √"
+  },
+  "Não existe": {
+    "prefix": ".nex",
+    "body": ["∄"],
+    "description": "Substitui por ∄"
   }
 }

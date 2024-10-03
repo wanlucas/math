@@ -28,6 +28,10 @@
       3 1 / 2 = 3 x 2 + 1
       7 / 2
 
+  Caso um dos números seja negativo, pode-se simplificar transformando a fração em negativa
+      
+      -3 / 5 = -(3 / 5)
+
 ### Adição e subtração
 #### Mesmo denominador
 basta manter o denominador e somar ou subtrair os numeradores
@@ -48,13 +52,34 @@ basta encontrar o mínimo múltiplo comum dos denominadores, substituir os denom
         4 / 35
 
 ### Multiplicação e divisão
-bastar multiplicar numerador por numerador, divisor por divisor.
+Basta multiplicar numerador por numerador, divisor por divisor.
 
-        3 / 4 x 2 / 7 = 6 / 28
+        4 / 8 * 4 / 2 = 16 / 16 => 2 / 2
 
-para dividir basta inverter a segunda
+Também é possível dividir numerador por divisor e vice-versa.
 
-        3 / 4 x 7 / 2 = 21 / 8
+        4 / 8 x 4 / 2 = (4 / 2) / (8 / 4) = 2 / 2
+
+
+Para dividir basta inverter a segunda
+
+        (4 / 8) / (2 / 4) = 4 / 8 * 4 / 2 = 16 / 16 => 2 / 2
+
+A intersão também se aplica na divisão
+        
+        (4 / 8) / (2 / 4) = (4 / 2) / (8 / 4) = 2 / 2
+
+A inversão é muito útil para casos onde é mais fácil dividir do que multiplicar.
+
+        3 * (27 / 9)
+        o processso normal seria:
+
+        3 / 1 * 27 / 9 => 81 / 9 => 27 / 3 => 9
+
+        dividindo seria tão simples quanto
+
+        (27 / 9) / (1 / 3) => 27 / 3 => 9
+
 
 ### Representação fracionária de dízima periódica
 
