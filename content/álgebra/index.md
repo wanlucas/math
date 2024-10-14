@@ -5,7 +5,7 @@ Uma expressão algébrica é uma combinaçao de números e letras representando 
 ## Nomenclaturas
    - **Termo** é a parte única de um expressão, 5x é um termo de 5x + 2y
    - **Fator** é a parte de um termo, 5x³ é um fator de 5x³y⁴
-   - Um fator de um termo é **coeficiente** do restante do termo, no termo 5x³y⁴, 5x³ é coeficiente de y⁴
+   - Um fator de um termo é **Coeficiente** do restante do termo, no termo 5x³y⁴, 5x³ é coeficiente de y⁴
    - **Subtraendo** é a expressão que é removida de outra em uma subtração
 
 ## Regras
@@ -42,5 +42,24 @@ A multiplicação é obtida multiplicando-se os termos nos fatores das expressõ
         6x² -18x - x³ + 27
         -x³ + 6x² - 18x - 27
 
+### Divisão
+A divisão é obtida usando-se a regra de divisão dos expoentes
 
+#### Monômio por Monômio
+        (24x⁴y²z³) / (-3x³y⁴z)
+        -8x(1/y²)z²
+        -8xz¹ / y²
 
+#### Polinômio por Polinômio
+        2x⁴ - 3x³ + x² + x - 2 | x² - 3x + 2
+       -2x⁴ + 6x³ - 4²           2x² + 3x + 6
+        _____________
+        3x³  - 3x² + x
+       -3x³  + 9x² - 6x
+        _____________
+        6x² - 5x - 2
+       -6x² + 18x -12
+        _____________
+        13x - 14
+
+[Exercícios](./examples/1.md)
