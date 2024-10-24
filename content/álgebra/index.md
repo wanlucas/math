@@ -63,3 +63,37 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
         13x - 14
 
 [Exercícios](./examples/1.md)
+
+## Produtos especiais 
+
+- Produto entre um monômio e um binômio
+        a(c + d) = ac + ad
+
+- Produto entre a soma e a difefença de dois termos
+        (a + b)(a - b) = a² - b²
+
+- Quadrado de um binômio
+        (a + b)² = a² + 2ab + b²
+        (a - b)² = a² - 2ab + b²
+
+- Produto de dois binômios
+        (x + a)(x + b) = x² + (a + b)x + ab
+        (ax + b)(cx + d) = acx² + (ad + bc)x + bd
+        (a + b)(c + d) = ac + ad + bc + bd
+
+- Cubo de um binômio
+        (a + b)³ = a³ + 3a²b + 3ab² + b³
+        (a - b)³ = a³ - 3a²b + 3ab² - b³
+
+- Quadrado de um trinômio
+        (a + b + c)² = a² + b² + b³ + 2ab + 2ac + 2bc
+
+- Diferença entre a n-ésima potência 
+        (a - b)(a⁰ + b⁰) = a¹ - b¹
+        (a - b)(a¹ + b¹) = a² - b²
+        (a - b)(a² + ab + b²) = a³ - b³
+        (a - b)(a³ + a²b + ab² + b³) = a⁴ - b⁴
+        (a - b)(a⁴ + a³b + a²b² + ab³ + b⁴) = a⁵ - b⁵
+        ...
+
+[Exercícios](./examples/2.md)
