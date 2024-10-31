@@ -86,7 +86,7 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
         (a - b)³ = a³ - 3a²b + 3ab² - b³
 
 - Quadrado de um trinômio
-        (a + b + c)² = a² + b² + b³ + 2ab + 2ac + 2bc
+        (a + b + c)² = a² + b² + c² + 2ab + 2ac + 2bc
 
 - Diferença entre a n-ésima potência 
         (a - b)(a⁰ + b⁰) = a¹ - b¹
