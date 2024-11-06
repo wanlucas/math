@@ -97,3 +97,53 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
         ...
 
 [Exercícios](./examples/2.md)
+
+## Fatoração
+
+Os fatores de uma expressão consistem em duas ou mais expressões que, quando multiplicadas, resultam na expressão dada. 
+
+- Fator monomial comum
+        6x²y - 2x³ = 2x²(3y - x)
+        2x³y - xy² + 3x²y = xy(2x² - y + 3x)
+
+- Diferença de dois quadrados
+        a² - b² = (a + b)(a - b)
+        x² - 25 = x² - 5² = (x + 5)(x - 5)
+        4x² - 9y² = (2x)² - (3y)² = (2x + 3y)(2x - 3y)
+
+- Trinômios quadrados perfeitos
+        a² + 2ab + b² = (a + b)²
+        a² - 2ab + b² = (a - b)²
+        x² + 6x + 9 = (x + 3)² 
+        9x² - 12xy + 4y² = (3x - 2y)²
+
+- Soma e diferença de dois cubos
+        a³ + b³ = (a + b)(a² - ab + b²)
+        a³ - b³ = (a - b)(a² + ab + b²)
+
+        8x³ + 27y³
+        (2x)³ + (3y)³
+        (2x + 3y)((2x)² + (2x)(3y) + (3y)²)
+        (2x + 3y)(4x² + 6xy + 9x²)
+
+        8x³y³ - 1
+        (2xy)³ - 1³
+        (2xy - 1)((2xy)² + (2xy)(1) + 1²)
+        (2xy - 1)(4x²y² + 2xy + 1)
+
+- Agrupamento de termos
+        ac + bc + ad + bd = c(a + b) + d(a + b) = (c + d)(a + b)
+
+        2ax - 4bx + ay - 2by
+        2x(a - 2b) + y(a - 2b)
+        (2x + y)(a - 2b)
+
+- Fatores de a^n +- b^n
+        32x⁵ + 1 
+        (2x)⁵ + 1⁵
+        (2x + 1)((2x)⁴ + (2x)³(1) + (2x)²(1²) + (2x)(1³) + 1⁴)
+        (2x + 1)(16x⁴ - 8x³ + 4x² - 2x + 1)
+
+        x⁷ - 1
+        x⁷ - 1⁷
+        (x - 1)(x⁶ + x⁵ + x⁴ + x³ + x² + x + 1)
