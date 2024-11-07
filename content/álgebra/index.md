@@ -3,54 +3,64 @@
 Uma expressão algébrica é uma combinaçao de números e letras representando números.
 
 ## Nomenclaturas
-   - **Termo** é a parte única de um expressão, 5x é um termo de 5x + 2y
-   - **Fator** é a parte de um termo, 5x³ é um fator de 5x³y⁴
-   - Um fator de um termo é **Coeficiente** do restante do termo, no termo 5x³y⁴, 5x³ é coeficiente de y⁴
-   - **Subtraendo** é a expressão que é removida de outra em uma subtração
+
+- **Termo** é a parte única de um expressão, 5x é um termo de 5x + 2y
+- **Fator** é a parte de um termo, 5x³ é um fator de 5x³y⁴
+- Um fator de um termo é **Coeficiente** do restante do termo, no termo 5x³y⁴, 5x³ é coeficiente de y⁴
+- **Subtraendo** é a expressão que é removida de outra em uma subtração
 
 ## Regras
 
 ### Adição
-A adição é obtida juntando os termos semelhantes. 
+
+A adição é obtida juntando os termos semelhantes.
 
         (7x + 3y³ - 4xy) + (3x - 2y³ + 7xy) + (2xy - 5x - 6y³)
-        5x + -5y³ + 5xy 
+        5x + -5y³ + 5xy
 
 ### Subtração
+
 A subtração é obtida alterando o sinal de cada termo da expressão que está sendo subtraida e juntando as expressões
 
-        (10x² - 2xy - 3y²) - (2x² - 3xy + 5y²) 
+        (10x² - 2xy - 3y²) - (2x² - 3xy + 5y²)
         (10x² - 2xy - 3y²) + (-2x² + 3xy - 5y²)
         8x² + xy - 8y²
 
 ### Multiplicação
+
 A multiplicação é obtida multiplicando-se os termos nos fatores das expressões
 
 #### Monômio por Monômio
+
         (-3x²y³z)(2x⁴y)(-4xy⁴z²)
         ((-3)(2)(-4))(x² * x⁴ * x)(y³ * y * y⁴)(z * z²)
         24x⁷y⁸z³
 
 #### Monômio por Polinômio
+
         (3xy - 4x³ + 2xy²)(5x²y⁴)
         (5x²y⁴)(3xy) + (5x²y⁴)(-4x³) + (5x²y⁴)(2xy²)
         15x³y⁵ - 20x⁵y⁴ + 10x³y⁶
 
 #### Polinômio por Polinômio
+
         (3 - x)(-3x + 9 + x²)
         (-9x + 27 + 3x²) + (3x² - 9x - x³)
         6x² -18x - x³ + 27
         -x³ + 6x² - 18x - 27
 
 ### Divisão
+
 A divisão é obtida usando-se a regra de divisão dos expoentes
 
 #### Monômio por Monômio
+
         (24x⁴y²z³) / (-3x³y⁴z)
         -8x(1/y²)z²
         -8xz¹ / y²
 
 #### Polinômio por Polinômio
+
         2x⁴ - 3x³ + x² + x - 2 | x² - 3x + 2
        -2x⁴ + 6x³ - 4²           2x² + 3x + 6
         _____________
@@ -64,7 +74,7 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
 
 [Exercícios](./examples/1.md)
 
-## Produtos especiais 
+## Produtos especiais
 
 - Produto entre um monômio e um binômio
         a(c + d) = ac + ad
@@ -88,7 +98,7 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
 - Quadrado de um trinômio
         (a + b + c)² = a² + b² + c² + 2ab + 2ac + 2bc
 
-- Diferença entre a n-ésima potência 
+- Diferença entre a n-ésima potência
         (a - b)(a⁰ + b⁰) = a¹ - b¹
         (a - b)(a¹ + b¹) = a² - b²
         (a - b)(a² + ab + b²) = a³ - b³
@@ -100,7 +110,7 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
 
 ## Fatoração
 
-Os fatores de uma expressão consistem em duas ou mais expressões que, quando multiplicadas, resultam na expressão dada. 
+Os fatores de uma expressão consistem em duas ou mais expressões que, quando multiplicadas, resultam na expressão dada.
 
 - Fator monomial comum
         6x²y - 2x³ = 2x²(3y - x)
@@ -114,7 +124,7 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
 - Trinômios quadrados perfeitos
         a² + 2ab + b² = (a + b)²
         a² - 2ab + b² = (a - b)²
-        x² + 6x + 9 = (x + 3)² 
+        x² + 6x + 9 = (x + 3)²
         9x² - 12xy + 4y² = (3x - 2y)²
 
 - Soma e diferença de dois cubos
@@ -132,14 +142,14 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
         (2xy - 1)(4x²y² + 2xy + 1)
 
 - Agrupamento de termos
-        ac + bc + ad + bd = c(a + b) + d(a + b) = (c + d)(a + b)
+  ac + bc + ad + bd = c(a + b) + d(a + b) = (c + d)(a + b)
 
         2ax - 4bx + ay - 2by
         2x(a - 2b) + y(a - 2b)
         (2x + y)(a - 2b)
 
 - Fatores de a^n +- b^n
-        32x⁵ + 1 
+        32x⁵ + 1
         (2x)⁵ + 1⁵
         (2x + 1)((2x)⁴ + (2x)³(1) + (2x)²(1²) + (2x)(1³) + 1⁴)
         (2x + 1)(16x⁴ - 8x³ + 4x² - 2x + 1)
@@ -147,3 +157,10 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
         x⁷ - 1
         x⁷ - 1⁷
         (x - 1)(x⁶ + x⁵ + x⁴ + x³ + x² + x + 1)
+
+
+### Máximo divisor comum (MDC)
+
+O máximo dividor comum (MDC) de dois ou mais polinômios é o polinômio de grau mais elevado e maiores coeficientes numéricos que é fator de todos os polinômios dados.
+
+[Exercícios](./examples/3.md)
