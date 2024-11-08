@@ -77,9 +77,11 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
 ## Produtos especiais
 
 - Produto entre um monômio e um binômio
+
         a(c + d) = ac + ad
 
 - Produto entre a soma e a difefença de dois termos
+
         (a + b)(a - b) = a² - b²
 
 - Quadrado de um binômio
@@ -87,18 +89,22 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
         (a - b)² = a² - 2ab + b²
 
 - Produto de dois binômios
+
         (x + a)(x + b) = x² + (a + b)x + ab
         (ax + b)(cx + d) = acx² + (ad + bc)x + bd
         (a + b)(c + d) = ac + ad + bc + bd
 
 - Cubo de um binômio
+
         (a + b)³ = a³ + 3a²b + 3ab² + b³
         (a - b)³ = a³ - 3a²b + 3ab² - b³
 
 - Quadrado de um trinômio
+
         (a + b + c)² = a² + b² + c² + 2ab + 2ac + 2bc
 
 - Diferença entre a n-ésima potência
+
         (a - b)(a⁰ + b⁰) = a¹ - b¹
         (a - b)(a¹ + b¹) = a² - b²
         (a - b)(a² + ab + b²) = a³ - b³
@@ -113,21 +119,25 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
 Os fatores de uma expressão consistem em duas ou mais expressões que, quando multiplicadas, resultam na expressão dada.
 
 - Fator monomial comum
+
         6x²y - 2x³ = 2x²(3y - x)
         2x³y - xy² + 3x²y = xy(2x² - y + 3x)
 
 - Diferença de dois quadrados
+
         a² - b² = (a + b)(a - b)
         x² - 25 = x² - 5² = (x + 5)(x - 5)
         4x² - 9y² = (2x)² - (3y)² = (2x + 3y)(2x - 3y)
 
 - Trinômios quadrados perfeitos
+
         a² + 2ab + b² = (a + b)²
         a² - 2ab + b² = (a - b)²
         x² + 6x + 9 = (x + 3)²
         9x² - 12xy + 4y² = (3x - 2y)²
 
 - Soma e diferença de dois cubos
+
         a³ + b³ = (a + b)(a² - ab + b²)
         a³ - b³ = (a - b)(a² + ab + b²)
 
@@ -142,6 +152,7 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
         (2xy - 1)(4x²y² + 2xy + 1)
 
 - Agrupamento de termos
+
   ac + bc + ad + bd = c(a + b) + d(a + b) = (c + d)(a + b)
 
         2ax - 4bx + ay - 2by
@@ -149,6 +160,7 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
         (2x + y)(a - 2b)
 
 - Fatores de a^n +- b^n
+
         32x⁵ + 1
         (2x)⁵ + 1⁵
         (2x + 1)((2x)⁴ + (2x)³(1) + (2x)²(1²) + (2x)(1³) + 1⁴)
@@ -158,6 +170,25 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
         x⁷ - 1⁷
         (x - 1)(x⁶ + x⁵ + x⁴ + x³ + x² + x + 1)
 
+- outros
+
+        1)
+        x² + x(a + b) + ab = (x + a)(x + b)
+
+        x² + 7x + 10
+        (x + 2)(x + 5)
+
+        2)
+        x² - x(x + b) + ab = (x - a)(x - b)
+
+        x² - 7x + 10
+        (x - 2)(x - 5)
+
+        3)
+        x² + x(a - b) - ab = (x + a)(x - b)
+
+        x² + 3x - 10
+        (x + 5)(x - 2)
 
 ### Máximo divisor comum (MDC)
 
