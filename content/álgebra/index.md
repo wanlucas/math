@@ -85,8 +85,8 @@ A divisão é obtida usando-se a regra de divisão dos expoentes
         (a + b)(a - b) = a² - b²
 
 - Quadrado de um binômio
-        (a + b)² = a² + 2ab + b²
-        (a - b)² = a² - 2ab + b²
+  (a + b)² = a² + 2ab + b²
+  (a - b)² = a² - 2ab + b²
 
 - Produto de dois binômios
 
@@ -189,6 +189,12 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
 
         x² + 3x - 10
         (x + 5)(x - 2)
+
+        4)
+        x² - x(a - b) - ab = (x - a)(x + b)
+
+        x² - x - 12
+        (x - 4)(x + 3)
 
 ### Máximo divisor comum (MDC)
 
