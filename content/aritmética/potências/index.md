@@ -14,3 +14,4 @@ Quando um número é multiplicado por si mesmo n vezes. Indicado pelo símbolo a
     - 5) (ab)³ = a³b³
     - 6) (a/b)⁴ = a⁴/b⁴ se a ≠ 0
     - 7) -2³ = -8 negativa quando base negativa e expoente impar
+    - 8) (4y²)³ = 64y⁶, (4²)³ = 4⁶
