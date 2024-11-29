@@ -196,8 +196,25 @@ Os fatores de uma expressão consistem em duas ou mais expressões que, quando m
         x² - x - 12
         (x - 4)(x + 3)
 
-### Máximo divisor comum (MDC)
-
-O máximo dividor comum (MDC) de dois ou mais polinômios é o polinômio de grau mais elevado e maiores coeficientes numéricos que é fator de todos os polinômios dados.
-
 [Exercícios](./examples/3.md)
+
+## Frações
+
+Uma fração algébrica racional pode ser ecrita como o quociente de dois polinômios.
+
+        (3x - 4) / (x² - 6x + 8)
+
+O valor de uma fração permanece inalterado se o numerador e denominador forem multiplicados ou divididos pelo mesmo valor
+
+        (x + 2) / (x - 3) = ((x + 2)(x - 1)) / (x - 3)(x - 1) = (x² + x - 2) / (x² - 4x + 3)
+
+        (x + 2) / (x - 3) = ((x + 2) / (x - 1)) / ((x - 3) / x - 1)) =
+
+Simplificar uma fração é convertê-la numa forma equivalente no qual numerador e denominador não possuam fatores em comum.
+
+        (x² - 4xy + 3y²) / (x² - y²)
+        ((x - 3y)(x - y)) / ((x + y)(x - y))
+        (x - 3y) / (x + y)
+
+
+[Exercícios](./examples/4.md)
