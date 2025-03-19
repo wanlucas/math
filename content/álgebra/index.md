@@ -218,3 +218,35 @@ Simplificar uma fração é convertê-la numa forma equivalente no qual numerado
 
 
 [Exercícios](./examples/4.md)
+
+
+## Expoentes
+
+Se N é um inteiro positivo, a^n representa o produto de N faturores iguais a a∁
+
+        2^3 = 2 * 2 * 2
+
+Se N é um inteiro negatido, definimos
+ 
+        a^-n = 1 / (a^n) se a ≠ 0
+
+### Regras gerais
+
+        a^3/2 = ²√a³ se a > 0 e n é o divisor é par
+
+        8⁻²/³ = 1 / ³√8² = 1 / ³√64 = 1 / 4
+
+        2³ * 2² = 2³⁺² = 2⁵ = 32
+
+        3¹/³ * 3¹/⁶ = 3¹/³⁺¹/⁶ = 3¹/² = ²√3 = √3
+
+        (3²)³ = 3²*³ = 3⁶
+
+        (2²)⁻³ = 2⁻⁶ = 1 / 2⁶ = 1 / 128
+        
+        2⁶ / 2⁴ = 2⁶⁻⁴ = 2² 
+
+        3⁻² / 3⁴ = 3⁻²⁻⁴ = 3⁻⁶
+
+        x¹/² / x⁻¹ = x¹/² ⁻ (⁻¹) = x³/²
+ 
