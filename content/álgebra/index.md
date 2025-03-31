@@ -250,3 +250,5 @@ Se N é um inteiro negatido, definimos
 
         x¹/² / x⁻¹ = x¹/² ⁻ (⁻¹) = x³/²
  
+
+[Exercícios](./examples/5.md)
